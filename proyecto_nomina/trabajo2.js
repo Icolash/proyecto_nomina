@@ -124,7 +124,7 @@ universidad.*/
     console.log(`El sueldo del empleado ${i} (con todos los subsidios) es de: $${sueldoTotalEmpleado}`);
     console.log('');
 
-    nominaTotal +=  numeroEmpleados + sueldoTotalEmpleado;
+    nominaTotal += sueldoTotalEmpleado;
     
 }
 console.log('');
